@@ -11,6 +11,7 @@ function NavBar({ color, title }) {
       <div className="container-fluid">
         <div className="navbar-header">
           <span className="navbar-brand">{title}</span>
+          
         </div>
       </div>
     </nav>
